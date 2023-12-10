@@ -1,5 +1,4 @@
-# BE-2-section-surabaya-group-14
-BE-2-section-surabaya-group-14 created by GitHub Classroom
+# section-surabaya-group-14
 
 # Capstone Project : Sungchan Hotel
 ## Group Name
