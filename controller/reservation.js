@@ -36,7 +36,7 @@ const getOneReservation = async (req, res) => {
 const createNewReservation = async (req, res) => {
   const { body } = req;
 
-  if (!body.custemer_name || !body.custemer_description) {
+  if (!body.customer_name || !body.customer_description) {
     return res.status(400).json({
       message: 'You Submitted Incorrect Data!',
       data: null,
@@ -60,7 +60,7 @@ const updateReservation = async (req, res) => {
   const { idReservation } = req.params;
   const { body } = req;
 
-  if (!body.custemer_name || !body.custemer_description) {
+  if (!body.customer_name || !body.customer_description) {
     return res.status(400).json({
       message: 'You Submitted Incorrect Data!',
       data: null,
