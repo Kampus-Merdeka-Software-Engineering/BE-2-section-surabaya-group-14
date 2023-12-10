@@ -1,5 +1,3 @@
-# section-surabaya-group-14
-
 # Capstone Project : Sungchan Hotel
 ## Group Name
 - Kevin (Project Leader, FE)
