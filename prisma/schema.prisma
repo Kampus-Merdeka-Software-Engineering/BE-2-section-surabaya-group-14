@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "mysql"
-  url      = env("mysql://root:gHDGAHb6FAA32a65AhcdG-1DF4f43e5g@roundhouse.proxy.rlwy.net:16057/railway")
+  url      = env("mysql://root:Ba3AH2D12gDfa2HdBG2F5Cah16EgAhbg@roundhouse.proxy.rlwy.net:31709/railway")
 }
 
 model Hotel {
